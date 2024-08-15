@@ -3,7 +3,7 @@
 
 ## Hello, Kauane here! 👋
 - 🎓 Currently studying the ways of the technology and it's magic programming.
-- 💗 In love especially with the back-end and design area.
+- 💗 In love especially creating innovative solutions and exploring new technologies.
 - 📆 Age: 20 yo.
 
 <div style="display: inline_block" align="center">
