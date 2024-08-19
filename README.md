@@ -1,6 +1,4 @@
 
-![CabecalhoCurriculo](https://github.com/KauaneAlmeida/KauaneAlmeida/assets/126673428/0e550eff-8547-467f-8cdb-e458d1cf80aa)
-
 ## Hello, Kauane here! 👋
 - 🎓 Currently studying the ways of the technology and it's magic programming.
 - 💗 In love especially creating innovative solutions and exploring new technologies.
