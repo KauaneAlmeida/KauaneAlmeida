@@ -3,6 +3,8 @@
 - 🎓 Currently studying the ways of the technology and it's magic programming.
 - 💗 In love especially creating innovative solutions and exploring new technologies.
 - 📆 Age: 20 yo.
+- 💻 Meu portfolio: <a href="https://kauanealmeida.github.io/meuPortfolio/" target="_blank">AQUI !</a>
+
 
 <div style="display: inline_block" align="center">
   <h2>Stats</h2>
