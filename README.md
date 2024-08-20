@@ -10,7 +10,7 @@
   <h2>Stats</h2>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=KauaneAlmeida&show_icons=true&theme=radical"/>
   <img loading="lazy" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KauaneAlmeida&theme=radical"/>
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaneAlmeida&card_width=350em&langs_count=4&theme=radical"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaneAlmeida&card_width=350em&langs_count=4&theme=radical"/>
 </div>
 
 <br/>
